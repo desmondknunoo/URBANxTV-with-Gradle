@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dkn.desmondenergeo.urbanxtv"
+    android:versionCode="1"
+    android:versionName="1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Home"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Splash"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Donate"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Donate"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.MenuActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.MenuActivity" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.OpenSource"
+            android:icon="@drawable/urbanxtv_written"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Events"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Events"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Live"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="LIVE"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Video"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Videos"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Developer"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="   "
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.MenuActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.MenuActivity" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.ContactUs"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Radio"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Online Radio"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Terms"
+            android:icon="@drawable/urbanxtv_written"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Apparel"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Apparels"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Music"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="Music"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.Request"
+            android:icon="@drawable/urbanxtv_written"
+            android:label="iRequest"
+            android:parentActivityName="com.dkn.desmondenergeo.urbanxtv.Home"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.dkn.desmondenergeo.urbanxtv.Home" />
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.About"
+            android:icon="@drawable/urbanxtv_written"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.dkn.desmondenergeo.urbanxtv.MenuActivity"
+            android:icon="@drawable/urbanxtv_written"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+    </application>
+
+</manifest>

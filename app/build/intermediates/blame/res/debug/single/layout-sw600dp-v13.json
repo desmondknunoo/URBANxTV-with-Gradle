@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\music.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\music.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\home.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\home.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\menu.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\menu.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\terms.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\terms.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\developer.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\developer.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\opensource.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\opensource.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\radio.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\radio.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\apparel.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\apparel.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\contact.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\contact.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\events.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\events.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\live.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\live.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\request.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\request.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\splash.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\splash.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\about.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\about.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\video.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\video.xml"
+    },
+    {
+        "merged": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\donate.xml",
+        "source": "E:\\#Project-Files\\URBANxTVAndroidStudioProject\\URBANxTV1\\app\\src\\main\\res\\layout-sw600dp\\donate.xml"
+    }
+]
